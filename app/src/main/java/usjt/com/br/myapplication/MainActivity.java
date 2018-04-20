@@ -6,6 +6,12 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
+/**
+ * Willian Vicente Prado
+ * RA: 816119009
+ * ADSMCA3
+ */
+
 public class MainActivity extends AppCompatActivity {
     public final static String EXTRA_MESSAGE =
             "br.usjt.meuprimeiroapp.MESSAGE";

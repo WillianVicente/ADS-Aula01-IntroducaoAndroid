@@ -7,7 +7,9 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 /**
- * Created by Note-Willian on 4/4/2018.
+ * Willian Vicente Prado
+ * RA: 816119009
+ * ADSMCA3
  */
 
 public class DisplayMessageActivity  extends AppCompatActivity {
